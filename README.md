@@ -28,8 +28,3 @@ Also,  I'm a  kid who loves building cool things!  These  'Cool things' include 
 <h3>Most Used Languages </h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravibasil&layout=compact&theme=material-palenight)
-
-
-
-------------
-<p align="center">This <i>README</i> file is generated <b>every 6 hours</b>!</br>Last refresh: Sunday, 16 May, 08:30 CEST<br />
